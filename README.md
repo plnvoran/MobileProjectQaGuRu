@@ -6,7 +6,7 @@
 
 # <a name="Contents">Contents</a>
 + [Description](#Description)
-+ [Technologies and Tools](#Technologies and Tools)
++ [Technologies and Tools](#Technologies-and-Tools)
 + [Launch Options](#Launch Options)
   + [Commands for gradle](#Commands for gradle)
   + [Run in Jenkins](#Run in Jenkins)
