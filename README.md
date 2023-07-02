@@ -58,24 +58,24 @@ A short list of interesting facts about the project:
 
 [Back to Contents ⬆](#Contents)
 
-# <a name="Launch Options">Launch Options/a>
+# <a name="Launch Options">Launch Options</a>
 
 ## <a name="Commands-for-gradle">Commands-for-gradle</a>
 
-Для запуска локально и в Jenkins используется следующая команда:
+To run locally/in Jenkins, use the following command:
 ```bash
 gradle clean
 ${deviceHost}
 -DdeviceHost="${deviceHost}"
 ```
 
-`deviceHost` - определяет среду для запуска этих тестов:
->- *android - запускается автотест для Android в BrowserStack*
->- *ios - запускается автотест для iOS в BrowserStack*
->- *mobile - запускается автотест для Android в Android Studio*
- 
+`deviceHost` - specifies the environment to run these tests:
+>- *android - runs autotest for Android in BrowserStack*
+>- *ios - runs autotest for iOS in BrowserStack*
+>- *mobile - runs Android autotest in Android Studio*
 
-Дополнительные свойства извлекаются из соответствующего файла конфигурации (в зависимости от значения `deviceHost`):
+
+Additional properties are retrieved from the corresponding configuration file (depending on the value of `deviceHost`):
 ```bash
 ./resources/${deviceHost}.properties
 ```
