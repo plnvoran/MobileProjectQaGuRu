@@ -6,10 +6,10 @@
 
 # <a name="Contents">Contents</a>
 + [Description](#Description)
-+ [Technologies and Tools](#Technologies-and-Tools)
++ [Technologies and Tools](#Technologies and Tools)
 + [Launch Options](#Launch Options)
-  + [Commands for gradle](#Commands-for-gradle)
-  + [Run in Jenkins](#Run-in-jenkins)
+  + [Commands for gradle](#Commands for gradle)
+  + [Run in Jenkins](#Run in Jenkins)
 + [Telegram notifications](#Telegram notifications)
 + [Test results in Allure Report](#Test results in Allure Report)
 + [Integration with Allure TestOps](#Integration-with-Allure-TestOps)
@@ -75,26 +75,14 @@ ${deviceHost}
 >- *mobile - runs Android autotest in Android Studio*
 
 
-Additional properties are retrieved from the corresponding configuration file (depending on the value of `deviceHost`):
+Additional properties (such as device, OS version, path to BrowserStack server, etc.) are retrieved from the corresponding configuration file (depending on the value of `deviceHost`):
 ```bash
 ./resources/${deviceHost}.properties
 ```
 
-Допустимые комбинации:
-```mermaid
-graph LR
-A[deviceHost] --> B[android]
-A --> C[ios]
-A --> D[mobile]
-B --> K[BrowserStack]
-C --> E[BrowserStack]
-D --> G[Android Studio]
-```
+[Back to Contents ⬆](#Contents)
 
-[Вернуться к оглавлению ⬆](#Содержание)
-
-## <a name="Запуск в Jenkins">Запуск в [Jenkins](https://jenkins.autotests.cloud/job/utebaliyevabotakoz_project_mobile/)</a>
-
+## <a name="Run in Jenkins">Run in [Jenkins](https://jenkins.autotests.cloud/job/utebaliyevabotakoz_project_mobile/)</a>
 
 Сборка с параметрами в Jenkins запускается с необходимым ***deviceHost***:
 
