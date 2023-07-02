@@ -7,13 +7,13 @@
 # <a name="Contents">Contents</a>
 + [Description](#Description)
 + [Technologies and Tools](#Technologies-and-Tools)
-+ [Launch Options](#Launch Options)
-  + [Commands for gradle](#Commands for gradle)
-  + [Run in Jenkins](#Run in Jenkins)
-+ [Telegram notifications](#Telegram notifications)
-+ [Test results in Allure Report](#Test results in Allure Report)
++ [Launch Options](#Launch-Options)
+  + [Commands for gradle](#Commands-for-gradle)
+  + [Run in Jenkins](#Run-in-Jenkins)
++ [Telegram notifications](#Telegram-notifications)
++ [Test results in Allure Report](#Test-results-in-Allure-Report)
 + [Integration with Allure TestOps](#Integration-with-Allure-TestOps)
-+ [Test run video](#Test run video)
++ [Test run video](#Test-run-video)
 
 # <a name="Description">Description</a>
 The project consists of autotests for Android (BrowserStack, Android Studio) and iOS (BrowserStack).
