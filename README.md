@@ -141,13 +141,13 @@ The Telegram bot Autotests bot sends a graphical report of each build.
 ## Allure TestOps Dashboard
 
 <p align="center">
-  <img src="images/screens/Testops1.PNG" width="950">
+  <img src="images/screens/Testtops1.PNG" width="950">
 </p>
 
 ## Allure TestOps Test Cases
 
 <p align="center">
-  <img src="images/screens/Testops2.PNG" width="950">
+  <img src="images/screens/Testtops2.PNG" width="950">
 </p>
 
 [Back to Contents ⬆](#Contents)
