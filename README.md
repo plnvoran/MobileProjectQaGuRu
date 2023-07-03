@@ -153,11 +153,9 @@ The Telegram bot Autotests bot sends a graphical report of each build.
 [Back to Contents ⬆](#Contents)
 
 
-# <a>An example video of passing the test in Browserstack</a>
-
+## <img alt="Selenoid" height="25" src="images/logo/Selenoid.svg" width="25"/></a> An example video of passing the test in Browserstack
 <p align="center">
-  <img src="images/video/android.gif" >
+<img title="Selenoid Video" src="images/video/android.gif" width="550" height="350"  alt="video">   
 </p>
-
 
 [Back to Contents ⬆](#Contents)
