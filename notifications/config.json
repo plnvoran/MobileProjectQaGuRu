@@ -6,7 +6,7 @@
     "comment": "Results",
     "reportLink": "https://jenkins.autotests.cloud/",
     "language": "ru",
-    "allureFolder": "allure-report/",
+    "allureFolder": "MobileProjectQaGuRu_Litinskiy/allure/",
     "enableChart": true
   },
   "telegram": {

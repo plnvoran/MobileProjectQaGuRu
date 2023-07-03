@@ -82,32 +82,31 @@ Additional properties (such as device, OS version, path to BrowserStack server, 
 
 [Back to Contents ⬆](#Contents)
 
-## <a name="Run in Jenkins">Run in [Jenkins](https://jenkins.autotests.cloud/job/utebaliyevabotakoz_project_mobile/)</a>
+## <a name="Run in Jenkins">Run in [Jenkins](https://jenkins.autotests.cloud/job/MobileProjectQaGuRu_Litinskiy/)</a>
 
-Сборка с параметрами в Jenkins запускается с необходимым ***deviceHost***:
+The build with parameters in Jenkins is started with the necessary ***deviceHost***:
 
-<p  align="center"> <img src="images/screens/JenkinsMain.png" width="950"> </p>
+<p  align="center"> <img src="images/screens/JenkinsMain.PNG" width="950"> </p>
 
 
-
-Главная страница проекта:
+Home page of the project:
 <p  align="center">
 <img src="images/screens/JenkinsHistory.PNG" width="950">
 </p>
 
 
-Результат сборки проекта доступен в:
+The project build result is available in:
 >- <code><strong>*Allure Report*</strong></code>
 >- <code><strong>*Telegram bot*</strong></code>
 >- <code><strong>*Allure TestOps*</strong></code>
 
 
-[Вернуться к оглавлению ⬆](#Содержание)
+[Back to Contents ⬆](#Contents)
 
 
-## <a name="Telegram">[Уведомление в Telegram о результатах прогона тестов](https://t.me/Qa_botakoz_bot)</a>
+## <a name="Telegram">[Telegram notification about test run results](https://t.me/HWLitinskiy)</a>
 
-Telegram-бот Autotests bot отправляет графический отчет каждой сборки.
+The Telegram bot Autotests bot sends a graphical report of each build.
 <p  align="center"> <img src="images/screens/Telegram1.PNG" width="650"></p>
 
 
