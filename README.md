@@ -113,71 +113,49 @@ The Telegram bot Autotests bot sends a graphical report of each build.
 
 # <a name="AllureReport">Результаты тестов в [Allure Report](https://jenkins.autotests.cloud/job/utebaliyevabotakoz_project_mobile/allure/allure)</a>
 
-## Главное окно
-
+## Main page
 
 <p align="center">
   <img src="images/screens/Allure1.PNG" width="950">
 </p>
 
-##  Тесты
+##  Tests
 
 <p align="center">
   <img src="images/screens/Allure2.PNG" width="950">
 </p>
+
+
+##  Graphs
 
 <p align="center">
   <img src="images/screens/Allure3.PNG" width="950">
 </p>
 
 
-##  Графики
+[Back to Contents ⬆](#Contents)
 
-<p align="center">
-  <img src="images/screens/Allure4.PNG" width="950">
-</p>
-
-<p align="center">
-  <img src="images/screens/Allure5.PNG" width="950">
-</p>
-
-<p align="center">
-  <img src="images/screens/Allure6.PNG" width="950">
-</p>
-
-
-[Вернуться к оглавлению ⬆](#Содержание)
-
-# <a>Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/20439/tree?treeId=0)</a>
+# <a>Integration with [Allure TestOps](https://allure.autotests.cloud/launch/20439/tree?treeId=0)</a>
 
 
 ## Allure TestOps Dashboard
 
 <p align="center">
-  <img src="images/screens/Testopps1.PNG" width="950">
+  <img src="images/screens/Testops1.PNG" width="950">
 </p>
 
 ## Allure TestOps Test Cases
 
 <p align="center">
-  <img src="images/screens/Testopps2.PNG" width="950">
+  <img src="images/screens/Testops2.PNG" width="950">
 </p>
 
-<p align="center">
-  <img src="images/screens/Testopps3.PNG" width="950">
-</p>
+[Back to Contents ⬆](#Contents)
 
-<p align="center">
-  <img src="images/screens/Testopps4.PNG" width="950">
-</p>
-
-[Вернуться к оглавлению ⬆](#Содержание)
-
-
-# <a>Пример видео прохождения теста в Browserstack</a>
+# <a>An example video of passing the test in Browserstack</a>
 
 <p align="center">
   <img src="images/video/android.gif" >
 </p>
 
-[Вернуться к оглавлению ⬆](#Содержание)
+[Back to Contents ⬆](#Contents)
