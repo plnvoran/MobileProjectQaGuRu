@@ -135,7 +135,7 @@ The Telegram bot Autotests bot sends a graphical report of each build.
 
 [Back to Contents ⬆](#Contents)
 
-# <a>Integration with [Allure TestOps](https://allure.autotests.cloud/launch/20439/tree?treeId=0)</a>
+# <a>Integration with [Allure TestOps](https://allure.autotests.cloud/project/3452/dashboards)</a>
 
 
 ## Allure TestOps Dashboard
