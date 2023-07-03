@@ -153,12 +153,10 @@ The Telegram bot Autotests bot sends a graphical report of each build.
 [Back to Contents ⬆](#Contents)
 
 
-# <a>Пример видео прохождения теста в Browserstack</a>
+## Пример видео прохождения теста в Browserstack
 
 <p align="center">
   <img src="images/video/android.gif" >
 </p>
-
-
 
 [Back to Contents ⬆](#Contents)
