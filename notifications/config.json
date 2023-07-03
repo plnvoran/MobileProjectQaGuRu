@@ -1,9 +1,9 @@
 {
   "base": {
     "logo": "",
-    "project": "HW_Demoqa_Telegram_Litinskiy",
-    "environment": "https://github.com/plnvoran?tab=repositories",
-    "comment": "Результаты",
+    "project": "MobileProjectQaGuRu_Litinskiy",
+    "environment": "https://github.com/plnvoran/MobileProjectQaGuRu",
+    "comment": "Results",
     "reportLink": "https://jenkins.autotests.cloud/",
     "language": "ru",
     "allureFolder": "allure-report/",
