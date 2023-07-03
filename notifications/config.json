@@ -4,9 +4,9 @@
     "project": "MobileProjectQaGuRu_Litinskiy",
     "environment": "https://github.com/plnvoran/MobileProjectQaGuRu",
     "comment": "Results",
-    "reportLink": "https://jenkins.autotests.cloud/job/MobileProjectQaGuRu_Litinskiy/",
+    "reportLink": "https://jenkins.autotests.cloud/",
     "language": "ru",
-    "allureFolder": "allure/",
+    "allureFolder": "allure-report/",
     "enableChart": true
   },
   "telegram": {
